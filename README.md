@@ -1,4 +1,12 @@
 # Flights_prediction
+Dataset: https://www.kaggle.com/datasets/usdot/flight-delays
+
+Tested models:
+  Linear Regression
+  Lasso
+  Ridge
+
+
 ![2](https://user-images.githubusercontent.com/74782921/134769000-9f3ab1ff-f1f2-4b7d-928b-8ae0b2e5b798.jpg)
 ![3](https://user-images.githubusercontent.com/74782921/134769003-81fa16c1-bb20-4689-b075-4d8f200c3a06.jpg)
 ![4](https://user-images.githubusercontent.com/74782921/134769005-17b7a50a-528d-4c74-9971-211246abb932.jpg)
